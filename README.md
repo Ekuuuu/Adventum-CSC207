@@ -22,5 +22,5 @@ After finishing the setup:
 * Clone the repository from Github
 * From the main screen in Android Studio, select "Open an existing Android Studio Project"
 * From the cloned repository, select phase2
-* Wait for the build to be completed 
+* Select the Pixel 3 as the device for the application
 * Run the application
